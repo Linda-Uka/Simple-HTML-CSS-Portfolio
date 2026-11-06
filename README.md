@@ -47,6 +47,7 @@ Contributions are welcome! Feel free to submit a pull request if you'd like to i
 ## Contact
 
 If you have any questions or feedback, please reach out to [spruceemmanuel@gmail.com].
+i am exploring this as part of my github learning journey
 
 ---
 
